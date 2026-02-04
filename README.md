@@ -1,4 +1,4 @@
-<h1 align="center">Salve, eu sou o Isaque776 👑</h1>
+<h1 align="center">oi, eu sou o Isaque776 👑</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=🔥+Programador+Full+Power;🚀+Criador+de+projetos+insanos;💻+Python%2C+C%23%2C+JavaScript+%2B;🎮+Game+Dev+e+Automation+Lover" />
